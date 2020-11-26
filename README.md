@@ -1,3 +1,3 @@
 # test-ifocop
 
-c quoi readme ???
+Description du projet
